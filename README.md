@@ -15,5 +15,5 @@ See https://optuna.org/.
 % pip install optuna-dashboard   
 % optuna-dashboard sqlite:///db.sqlite3   
 
-![Alt Text](https://github.com/zi-ang-liu/SAEA-CDE/blob/main/figures/param_tune_CDE.png)
+![parameter tuning reuslts (CDE)](https://github.com/zi-ang-liu/SAEA-CDE/blob/main/figures/param_tune_CDE.png)
 
