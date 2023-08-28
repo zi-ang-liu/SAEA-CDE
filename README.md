@@ -15,4 +15,4 @@ See https://optuna.org/.
 % pip install optuna-dashboard   
 % optuna-dashboard sqlite:///db.sqlite3   
 
-\ref(figures:param_tune_CDE)
+\ref(figures:param_tune_CDE.png)
